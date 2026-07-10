@@ -61,5 +61,9 @@ Item_Outlet_Sales as the target variable.
 - Seaborn
 - Jupyter Notebook
 
+## Demo Video
+Watch the demo video explaining the analytical pipeline and business insights here:
+[Demo Video - DevRise Task 1](https://youtu.be/Cx1duTfYWTo)
+
 ## Author
 Ahana Singh - DevRise Internship, Batch 1 (2026)
